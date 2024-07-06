@@ -24,19 +24,19 @@ public class BeneficiarioTest {
 	public static void main(String[] args) {
 
 		// Adicionar Beneficiario //		
-		//adicionarBeneficiario();		
+		adicionarBeneficiario();		
 		
+		// Listar Beneficiario //
+		listarBeneficiario();
+
+		// Listar Beneficiario x Documento //		
+		listarBeneficiarioDocumento(1);
+
 		// Alterar Beneficiario //		
 		//alterarBeneficiario(1);
 		
 		// Deletar Beneficiario //		
 		//deletarBeneficiario(1);
-
-		// Listar Beneficiario //
-		//listarBeneficiario();
-		
-		// Listar Beneficiario x Documento //		
-		//listarBeneficiarioDocumento(1);
 		
 	}
 	

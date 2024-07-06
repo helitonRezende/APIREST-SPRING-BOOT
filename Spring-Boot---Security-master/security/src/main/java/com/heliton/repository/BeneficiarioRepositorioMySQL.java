@@ -2,7 +2,6 @@ package com.heliton.repository;
 
 // Java //
 import org.springframework.stereotype.Repository;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.beans.factory.annotation.Value;
 
 // SQL e Listas //
