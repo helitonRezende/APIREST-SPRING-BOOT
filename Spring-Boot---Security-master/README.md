@@ -1,3 +1,19 @@
+# Informações do projeto
+1 - Maven
+	
+	/pom.xml
+	
+2 - MYSql
+Classe que controla
+
+	/src/main/java/com/heliton/repository/
+
+2 - Spring Security
+Classe que controla
+
+	/src/main/java/com/heliton/config/
+	
+
 # Spring-Boot -> API
 
 1 - Subir projeto porta padrão 8080 --> http://localhost:8080/
@@ -7,6 +23,8 @@ Classe a ser executada
 	class --> src/main/java/com/heliton/WebApplication.java
 
 # Testes - PostMan
+
+Modelo de teste no POSTMAN ou em Class Java, coforme abaixo:
 
 1 - Cadastrar um benefiário junto com seus documentos.
 
